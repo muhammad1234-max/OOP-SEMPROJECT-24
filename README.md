@@ -28,10 +28,11 @@ The codes implementation and working is described in the ppt
 
 # DESIGN METHODOLOGY
 
-The process began with learning how to implement SFML in a C++ code and then dividing the work among the group member. The work was divided into three parts:
-1. Implementing the Animations and the sound effects
-2. Creating the enemy, player and bullet classes.
-3. 
+The process began with learning how to implement SFML in a C++ code and then dividing the work among the group member. The work was divided into four parts:
+1. Implementing the Animations & the sound effects
+2. Creating the Enemy, Player & Ship classes.
+3. Creating the PowerBlast and Bullet classes
+4. Implementing all methods in a game class to modularise code
 
 The next step was to compile the code and then work out all the errors and issues that the code presented. 
 

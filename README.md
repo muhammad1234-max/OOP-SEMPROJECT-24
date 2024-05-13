@@ -78,6 +78,6 @@ In conclusion, the project successfully demonstrates the application of Object O
 # REFERENCES
 Youtube and other sites were used to understand SFML and Visual Studio was used as an IDE.
 
-# Video Demo
-https://github.com/muhammad1234-max/OOP-SEMPROJECT-24/assets/34939623/049de7dc-4e09-4341-b1ce-24163f72fa06
+# VIDEO DEMO
+https://github.com/muhammad1234-max/OOP-SEMPROJECT-24/assets/115150510/0b120b85-e692-4174-8af2-a83e016e51ea
 

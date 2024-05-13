@@ -54,7 +54,7 @@ Syed Ukkashah [23K-0055]
   
 Ibrahim Johar [23K-0074]  
 - Created the PowerBlast & Bullet classes. 
-- Maniuplated bullet vectors to handle collision and ensured deletion of bullets once they are out of window bounds to ensure proper cleanup. 
+- Manipulated bullet vectors to handle collision and ensured deletion of bullets once they are out of window bounds to ensure proper cleanup. 
 - Implemented Shoot timers to avoid spraying bullets & created the "canBlast" logic for the power blast.
 - Designed the cover art for the game
   

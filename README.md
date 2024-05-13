@@ -45,10 +45,20 @@ realism. This is a game with 2-levels.
 # MEMBER CONTRIBUTIONS
 Since this was a collaborative project, each member contributed to the entire project in one way or another but their specific contributions are as follows:
 
-Syed Ukkashah [23K-0055] -> Implemented and designed the Ship, Player & Enemy classes. Ship movement and collision checks were handled in the Game class. Enemies were deleted once they are out of window bounds for a more efficient program.
-Ibrahim Johar [23K-0074] -> Created the PowerBlast & Bullet classes. Maniuplated bullet vectors to handle collision and ensured deletion of bullets once they are out of window bounds to ensure proper cleanup. 
-Implemented Shoot timers to avoid spraying bullets & created the "canBlast" logic for the power blast. 
-Muhammad Abbas [23K-0068] -> Created the Animation class to handle the jet thruster spritesheet and implemented Sound effects for a more immersive experience. UI was also implemented (HP bars, timers, texts, logos, etc.) 
+Syed Ukkashah [23K-0055] 
+- Implemented and designed the Ship, Player & Enemy classes.
+- Ship movement and collision checks were handled in the Game class.
+- Enemies were deleted once they are out of window bounds for a more efficient program.
+  
+Ibrahim Johar [23K-0074]  
+- Created the PowerBlast & Bullet classes. 
+- Maniuplated bullet vectors to handle collision and ensured deletion of bullets once they are out of window bounds to ensure proper cleanup. 
+- Implemented Shoot timers to avoid spraying bullets & created the "canBlast" logic for the power blast.
+  
+Muhammad Abbas [23K-0068]
+- Created the Animation class to handle the jet thruster spritesheet and implemented Sound effects for a more immersive experience.
+- UI was also implemented (HP bars, timers, texts, logos, etc.)
+  
 # RESULTS AND ANALYSIS
 The project was thoroughly analyzed using different testing methods, and the results were as expected.
 

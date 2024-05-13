@@ -50,8 +50,9 @@ In conclusion, the project successfully demonstrates the application of Object O
 
 # FUTURE IMPROVEMENTS
 1. Future versions or software patches could include multiple more levels with harder enemy spacecrafts
-2. A boss level can be added to add thrill to the game.
+2. A boss level can be added 
 3. floating power-ups could be added with different attributes like health recovery or multiple bullets being fired at once.
+4. Bonus XP after a certain score threshold is achieved
 
 # REFERENCES
-Youtube and other sites were used to understand SFML and Visual Studio Code was used as an IDE.
+Youtube and other sites were used to understand SFML and Visual Studio was used as an IDE.

@@ -47,16 +47,20 @@ Since this was a collaborative project, each member contributed to the entire pr
 
 Syed Ukkashah [23K-0055] 
 - Implemented and designed the Ship, Player & Enemy classes.
+- Used inheritance to increase code productivity.
 - Ship movement and collision checks were handled in the Game class.
+- Implemented spawn timers to avoid infinite spawns and program crashes
 - Enemies were deleted once they are out of window bounds for a more efficient program.
   
 Ibrahim Johar [23K-0074]  
 - Created the PowerBlast & Bullet classes. 
 - Maniuplated bullet vectors to handle collision and ensured deletion of bullets once they are out of window bounds to ensure proper cleanup. 
 - Implemented Shoot timers to avoid spraying bullets & created the "canBlast" logic for the power blast.
+- Designed the cover art for the game
   
 Muhammad Abbas [23K-0068]
-- Created the Animation class to handle the jet thruster spritesheet and implemented Sound effects for a more immersive experience.
+- Created the Animation class to handle the jet thruster spritesheet
+- Implemented Sound effects for a more immersive experience.
 - UI was also implemented (HP bars, timers, texts, logos, etc.)
   
 # RESULTS AND ANALYSIS
